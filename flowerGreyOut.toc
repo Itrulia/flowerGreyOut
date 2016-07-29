@@ -1,0 +1,6 @@
+## Interface: 70000
+## Author: Itrulia
+## Notes: Greys spells out when they are on cooldown
+## Title: Flower UI: GreyOut
+
+core.lua
